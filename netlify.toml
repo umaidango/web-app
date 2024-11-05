@@ -1,0 +1,3 @@
+[build]
+  command = "npm run build" # または yarn build
+  publish = "dist" # ビルド後の出力ディレクトリ
